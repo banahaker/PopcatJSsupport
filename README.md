@@ -23,7 +23,7 @@ https://github.com/banahaker/PopcatJSsupport/blob/main/popcat.js
 打開DevTool(開發者工具)(開啟方法: 按 <kbd>F12</kbd> 或右鍵檢查)  
 並切換到console(控制或主控台)面板  
 接著貼上複製好的程式碼  
-按下Enter鍵就開始執行囉  
+按下 <kbd>Enter</kbd> 鍵就開始執行囉  
 ![開法者工具](devtool.png)
 
 # Taiwan NO.1
