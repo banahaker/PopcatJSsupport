@@ -1,4 +1,4 @@
-# PopcatJSsupport
+# Popcat-JS-support
 ## 重要資訊  
 在執行的過程中，可能會跳出無回應的提示框，不必理會，  
 可以放這在睡覺時弄，邊睡覺邊為國爭光  
