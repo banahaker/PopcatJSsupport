@@ -3,6 +3,9 @@
 在執行的過程中，可能會跳出無回應的提示框，不必理會，  
 可以放這在睡覺時弄，邊睡覺邊為國爭光  
 
+## 所有程式片段
+https://github.com/banahaker/PopcatJSsupport/blob/main/popcat.js
+
 ## 舉例片段
 ```javascript
     var event = new KeyboardEvent('keydown', {  
