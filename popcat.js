@@ -1,3 +1,7 @@
+/*請務必看萬到最後面的註解「非常重要」*/
+
+
+
 /*for 迴圈可設定次數版*/
 /*新增鍵盤事件(KeyboardEvent)*/
 var event = new KeyboardEvent('keydown', {
