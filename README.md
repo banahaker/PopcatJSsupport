@@ -16,3 +16,19 @@
     }  
 ```
 這樣整段就可以用了  
+## 使用方法 
+打開DevTool(開發者工具)(開啟方法: 按F12或右鍵檢查)  
+並切換到console(控制或主控台)面板  
+接著貼上複製好的程式碼  
+按下Enter鍵就開始執行囉  
+![開法者工具](devtool.png)
+
+# Taiwan NO.1
+Taiwan NO.1
+Taiwan NO.1  
+Taiwan NO.1
+Taiwan NO.1  
+Taiwan NO.1
+Taiwan NO.1  
+Taiwan NO.1
+Taiwan NO.1  
